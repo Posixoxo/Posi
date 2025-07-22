@@ -1,4 +1,4 @@
-# Posi Repositories
+# My Repositories
 
 https://github.com/Posixoxo/Recipe
 https://github.com/Posixoxo/Chat-app
